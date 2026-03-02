@@ -1,1 +1,61 @@
+# ☕ Coffee Sales Analysis (Excel Dashboard)
 
+## 📊 Project Overview
+
+This project analyzes coffee shop transaction data using Microsoft Excel to uncover sales trends, customer purchasing behavior, and store performance insights.
+
+---
+
+## 🎯 Objective
+
+* Analyze revenue performance
+* Identify top-selling products
+* Compare store locations
+* Understand hourly demand patterns
+
+---
+
+## 🛠 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Data Cleaning
+* Dashboard Visualization
+
+---
+
+## 📁 Dataset
+
+* 149,116 transaction records
+* Multiple store locations
+* Product categories & sizes
+* Hourly sales data
+
+---
+
+## 📈 Key Insights
+
+* Coffee category generates highest revenue contribution.
+* Morning hours drive peak sales activity.
+* Store performance remains balanced across locations.
+* Few products contribute majority of sales (Pareto effect).
+
+---
+
+## 🖥 Dashboard Preview
+
+(Add dashboard_preview.png here)
+
+---
+
+## ▶️ How to Use
+
+1. Download `Coffee.xlsx`
+2. Open **Dashboard** sheet
+3. Use slicers to explore data interactively
+
+---
+
+## 👤 Author
+
+Anuj Magre — Data Analytics Portfolio Project
