@@ -70,7 +70,7 @@ Each project includes:
 
 * Investment Size Segmentation
 
-➡️ Open Project Folder: Indian-Startup-Funding-Analysis
+➡️ Open Project Folder: `Indian-Startup-Funding-Analysis`(https://github.com/Anuj-Magre/Excel-Data-Analytics/tree/main/Indian-Startup-Funding-Analysis)
 
 
 ---
