@@ -51,7 +51,7 @@ Each project includes:
 * Store & Product Performance Analysis
 * Hourly Sales Trend Analysis
 
-➡️ Open Project Folder: `Coffee-Sales-Analysis`
+➡️ Open Project Folder: [Coffee-Sales-Analysis](https://github.com/Anuj-Magre/Excel-Data-Analytics/tree/main/Coffee-Sales-Analysis)
 
 ---
 ### Indian Startup Funding Analysis (2015–2020)
@@ -70,7 +70,7 @@ Each project includes:
 
 * Investment Size Segmentation
 
-➡️ Open Project Folder: `Indian-Startup-Funding-Analysis`(https://github.com/Anuj-Magre/Excel-Data-Analytics/tree/main/Indian-Startup-Funding-Analysis)
+➡️ Open Project Folder: [Indian Startup Funding Analysis](./Indian-Startup-Funding-Analysis/)
 
 
 ---
