@@ -33,7 +33,7 @@ The objective was to transform raw funding data into meaningful business insight
 
 ## 📁 Dataset Information
 
-Source: Kaggle – Indian Startup Funding Dataset
+Source: Kaggle – [Indian Startup Funding Dataset](https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding?resource=download)
 
 Key Fields:
 
