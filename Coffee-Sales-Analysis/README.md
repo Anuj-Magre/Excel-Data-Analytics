@@ -44,7 +44,8 @@ This project analyzes coffee shop transaction data using Microsoft Excel to unco
 
 ## 🖥 Dashboard Preview
 
-(Add dashboard_preview.png here)
+
+<img width="1778" height="826" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/76ae4576-2c42-404d-8813-cedbd88877eb" />
 
 ---
 
