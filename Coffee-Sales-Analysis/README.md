@@ -24,7 +24,11 @@ This project analyzes coffee shop transaction data using Microsoft Excel to unco
 
 ---
 
-## 📁 Dataset
+## 📁 Dataset Information
+
+Source: Kaggle – [Coffee Shop Sales Dataset]([https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding?resource=download](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales))
+
+Key Fields:
 
 * 149,116 transaction records
 * Multiple store locations
