@@ -53,6 +53,24 @@ Each project includes:
 
 ➡️ Open Project Folder: `Coffee-Sales-Analysis`
 
+---
+### Indian Startup Funding Analysis (2015–2020)
+
+**Objective:** Analyze startup investment patterns to identify funding trends, industry dominance, investor behavior, and geographic concentration.
+
+**Key Highlights:**
+
+* Funding Trend Analysis (2015–2020)
+
+* Industry-wise Capital Distribution
+
+* Top 10 Investor Analysis
+
+* Angel vs VC Funding Comparison
+
+* Investment Size Segmentation
+
+➡️ Open Project Folder: Indian-Startup-Funding-Analysis
 
 
 ---
