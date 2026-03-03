@@ -51,7 +51,7 @@ This project analyzes coffee shop transaction data using Microsoft Excel to unco
 
 ## ▶️ How to Use
 
-1. Download `Coffee.xlsx`
+1. Download `Coffee-Sales-Analysis.xlsm`
 2. Open **Dashboard** sheet
 3. Use slicers to explore data interactively
 
